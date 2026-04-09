@@ -59,3 +59,30 @@ Paste your PR URL into TalentLMS → Module 4 → Thursday Stretch.
 This repository is provided for educational use only. See [LICENSE](LICENSE) for terms.
 
 You may clone and modify this repository for personal learning and practice, and reference code you wrote here in your professional portfolio. Redistribution outside this course is not permitted.
+## My KPI and Chart
+
+I focused on revenue distribution across cities and product categories. I used a heatmap because it clearly shows differences in performance and highlights where the business is strongest.
+
+---
+
+## My Partner’s KPI and Chart
+
+My partner focused on monthly revenue trends using a line chart. Their analysis shows how revenue changes over time and identifies growth patterns.
+
+---
+
+## Where We Agreed
+
+We both found that performance is not consistent. Some areas perform better than others, which shows that the business has strong and weak points.
+
+---
+
+## Where We Disagreed
+
+I focused more on location and product performance, while my partner focused on time trends. I believe my approach gives more direct insights for decision-making.
+
+---
+
+## What I Learned
+
+I learned that combining both approaches would give a stronger analysis. Looking at both time trends and location data provides a more complete understanding.
