@@ -19,14 +19,13 @@ pivot = df.pivot_table(
     aggfunc="sum"
 )
 
-# plot heatmap
-plt.figure(figsize=(10,6))
+plt.figure(figsize=(800/150, 600/150))
+
 sns.heatmap(pivot, annot=True, fmt=".0f", cmap="viridis")
 
-plt.title("Revenue Concentration Across Cities and Categories")
+plt.title("Amman Leads Electronics Revenue Across Cities")
 plt.xlabel("Product Category")
 plt.ylabel("City")
 
-# save chart
 plt.savefig("contributions/alaafalugi88/chart.png", dpi=150, bbox_inches="tight")
 plt.close()

@@ -1,27 +1,27 @@
 ## My KPI and Chart
 
-I decided to focus on revenue distribution across cities and product categories. I chose this KPI because it clearly shows where the business performs strongly and where it is weaker. The heatmap made it easy to compare patterns between cities and categories in one view.
+I focused on revenue distribution across cities and product categories. I chose this KPI because it clearly shows where the business performs strongly and where it is weaker. The heatmap allowed me to compare multiple dimensions at once and quickly identify patterns across both cities and categories.
 
 ---
 
 ## My Partner’s KPI and Chart
 
-My partner focused on monthly revenue trends. They used a line chart to show how revenue changes over time and to identify any growth or decline patterns in the business.
+My partner focused on comparing performance across different categories. They used a bar chart to highlight which categories generate higher values and which ones perform less effectively. Their chart is simpler and focuses on one dimension at a time.
 
 ---
 
 ## Where We Agreed
 
-We both agreed that the business performance is not consistent across all areas. Some cities and time periods perform better than others. Both analyses showed that the business has strong and weak segments, and that understanding these differences is important for making better decisions.
+We both agreed that the business performance is not balanced. Some categories and areas clearly perform better than others. Both of our charts highlight that certain segments drive most of the value, while others lag behind. This confirms that the business should focus more on its strongest areas instead of applying a uniform strategy.
 
 ---
 
 ## Where We Disagreed
 
-I focused more on location and category performance, while my partner focused on trends over time. I believe my approach provides more direct insights for targeting specific markets. My partner believes that understanding trends is more important for long-term planning. We also used different chart types because each KPI required a different visualization approach.
+I focused on multi-dimensional analysis by combining both city and category in one visualization, while my partner focused on a single dimension for clarity. I believe my approach provides deeper insights because it shows interactions between variables. On the other hand, my partner believes that simpler charts are easier to understand and communicate. We also differed in chart type, as I used a heatmap while they used a bar chart.
 
 ---
 
 ## What I Learned
 
-From this comparison, I learned that combining both approaches would give a better understanding of the business. If I improve my analysis, I would include both time-based and location-based insights.
+From this comparison, I learned that both simplicity and depth are important in data analysis. If I improve my work, I would combine both approaches by starting with a simple chart and then adding deeper analysis for better understanding.
